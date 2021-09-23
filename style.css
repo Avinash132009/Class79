@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+}
+
+#sort{
+    display: none;
+}
+
+input, button{
+    margin: 10px;
+}
